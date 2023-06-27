@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="title_first">First Navigation</string>
+    <string name="title_second">Second Navigation</string>
+    <string name="create">Create</string>
+    <string name="alphabets">Alphabets</string>
+    <string name="numbers">Numbers</string>
+    <string name="character">Character</string>
+</resources>
